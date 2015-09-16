@@ -9,7 +9,7 @@ gem 'authority'  # 권한설정
 gem 'bootstrap-sass'
 gem 'simple_form'
 
-# 개발 모드에서 이메일을 보내않고 브라우저에서 미리보기한는 젬
+# 개발 모드에서 이메일을 보내않고 브라우저에서 미리보기하는 젬
 gem 'letter_opener', group: :development
 
 
